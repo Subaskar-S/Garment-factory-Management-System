@@ -1,5 +1,5 @@
 # Garment-factory-Management-System
-#TITLE
+TITLE
 Garment factory Management System which can help factory managers to maintain the records of cloths, Equipment, Export detail history and handle employee details.
 
 INTRODUCTION
